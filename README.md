@@ -1,1 +1,1 @@
-# Classic-Snakes-and-Ladders
+# Hungry Snake Game
